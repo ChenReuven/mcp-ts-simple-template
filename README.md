@@ -12,7 +12,7 @@ This template implements a basic MCP server with a sample BMI calculator tool. I
 
 ## Prerequisites
 
-- Node.js (v16 or higher recommended)
+- Node.js (v20 or higher recommended)
 - npm or yarn
 
 ## Installation
